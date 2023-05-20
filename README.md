@@ -6,5 +6,6 @@
 
 * Uso do Comando Git restore
 * git pull
+* git fetch
 
 
