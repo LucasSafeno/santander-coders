@@ -5,5 +5,6 @@
 ## Git log e restore
 
 * Uso do Comando Git restore
+* git pull
 
 
